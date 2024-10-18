@@ -1,5 +1,7 @@
 # Chatbot
 
+ [Chatbot web link](https://chatbot-with-js.netlify.app/)
+
 This project is a simple chatbot application built using HTML, CSS, and JavaScript, leveraging an external API to handle responses. The chatbot simulates conversation by interacting with the user and fetching dynamic responses from the API.
 
 ## Features
