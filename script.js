@@ -7,7 +7,7 @@ const sendChatBtn = document.querySelector(".chat-input span");
 let userMessage = null;
 const inputInitHeight = chatInput.scrollHeight;
 
-const API_KEY = "AIzaSyCSNnL6cXBmn-wu0-mWYCIbG7QqyuFLzyA";
+const API_KEY = " "; // enter the API key of gemini ai
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 const createChatLi = (message, className) => {
